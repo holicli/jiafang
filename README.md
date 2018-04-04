@@ -367,6 +367,7 @@ manage srpm or spdx when you run "dnf-host install" by add the following option:
 manage srpm or spdx only
 
 If you want to manage srpm or spdx files without installation, you can use the subcommand as following:
+  
   (1) fetchsrpm
 ```
       [test@localhost dnf_test]$ dnf-host fetchsrpm bash
