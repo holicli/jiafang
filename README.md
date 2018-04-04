@@ -394,6 +394,7 @@ If you want to manage srpm or spdx files without installation, you can use the s
 
 #### (2) configure srpm and spdx (optional)  
 &emsp;&emsp;If you want to manage srpm or spdx files on target, you have to configure repository in /etc/dnf/dnf-host.conf.
+
 &emsp;&emsp;For example:
 ```
         [root@localhost target]# cat /etc/dnf/dnf-host.conf
