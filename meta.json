@@ -1,0 +1,16 @@
+{	
+	"meta": [
+		{"metaname": "meta-cgl", "metadir": "git://git.openembedded.org/meta-openembedded"},
+		{"metaname": "meta-cloud-services", "metadir": "git://git.yoctoproject.org/meta-cloud-services"},
+		{"metaname": "meta-freescale", "metadir": "https://git.yoctoproject.org/git/meta-freescale"},
+		{"metaname": "meta-gplv2", "metadir": "git://git.yoctoproject.org/meta-gplv2"},
+		{"metaname": "meta-measured", "metadir": "https://github.com/flihp/meta-measured.git"},
+		{"metaname": "meta-oe-sumo", "metadir": "git://git.openembedded.org/meta-openembedded"},
+		{"metaname": "meta-qt5", "metadir": "git://github.com/meta-qt5/meta-qt5.git"},
+		{"metaname": "meta-security", "metadir": "git://git.yoctoproject.org/meta-security"},
+		{"metaname": "meta-selinu", "metadir": "git://git.yoctoproject.org/meta-selinux"},
+		{"metaname": "meta-virtualization", "metadir": "git://git.yoctoproject.org/meta-virtualization"},
+		{"metaname": "meta-xilinx", "metadir": "git://git.yoctoproject.org/meta-xilinx"},
+		{"metaname": "meta-skeleton", "metadir": "git://git.yoctoproject.org/poky"}
+	]
+}
